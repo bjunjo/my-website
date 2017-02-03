@@ -22,3 +22,15 @@ This is a static website to show my work and share my thoughts with others. No b
       </div>
       </nav> ...
 ```
+#### CSS - Navbar
+```CSS
+/****
+Navbar
+****/
+#navbarNav {
+  font-family: 'Oswald', sans-serif;
+  font-size: 22px;
+  padding-left: 44%;
+}
+
+```
