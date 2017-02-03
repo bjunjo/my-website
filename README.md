@@ -35,4 +35,4 @@ Navbar
 
 ```
 ## Motivation
-I always wanted to have a website where I can collect my thoughts and ideas to share with others. Also, this is a part of the ["100 Days of Code"](https://medium.freecodecamp.com/join-the-100daysofcode-556ddb4579e4) challenge. To see my progress, please click [here](https://github.com/byjunjo/100-days-of-code/blob/master/log.md)
+I always wanted to have a website where I can collect my ideas to share with others. Also, this is a part of the ["100 Days of Code"](https://medium.freecodecamp.com/join-the-100daysofcode-556ddb4579e4) challenge. To see my progress, please click [here](https://github.com/byjunjo/100-days-of-code/blob/master/log.md)
