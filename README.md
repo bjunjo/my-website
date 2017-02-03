@@ -1,5 +1,5 @@
 ## What is this?
-This is my portfolio website project. The project will be built on my knowledge in HTML, CSS, and framesworks such as Bootstrap.
+This is my portfolio website project. I use HTML, CSS, and framesworks such as Bootstrap to build this project.
 
 ## How does it work?
 This is a static website to show my work and share my thoughts with others. I mainly use the HTML and CSS for this project.
