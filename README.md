@@ -1,11 +1,11 @@
 ## What is this?
 This is my portfolio website project. The project will be built on my knowledge in HTML, CSS, and framesworks such as Bootstrap.
 
-## How does this work?
-This is a static website to show my work and share my thoughts with others. Not too serious. But, here's some code examples:
-#### Navbar
-'''HTML
-    <!-- navbar -->
+## How does it work?
+This is a static website to show my work and share my thoughts with others. No big deal.
+#### HTML - Navbar
+```HTML
+... <!-- navbar -->
       <nav class="navbar navbar-toggleable-md navbar-light">
         <button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
           <span class="navbar-toggler-icon"></span>
@@ -21,4 +21,4 @@ This is a static website to show my work and share my thoughts with others. Not 
         </ul>
       </div>
       </nav> ...
-  ```
+```
