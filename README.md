@@ -2,7 +2,7 @@
 This is my portfolio website project. The project will be built on my knowledge in HTML, CSS, and framesworks such as Bootstrap.
 
 ## How does it work?
-This is a static website to show my work and share my thoughts with others. I mainly use HTML and CSS for this project.
+This is a static website to show my work and share my thoughts with others. I mainly use the HTML and CSS for this project.
 #### HTML - Navbar
 ```HTML
 ... <!-- navbar -->
